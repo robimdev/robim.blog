@@ -4,10 +4,10 @@
 url: https://robimdev.github.io
 base_url: /robim.blog
 destination: docs
-
+source: docs
 keep_files: ['wp-content', '.git', 'assets', '.github', 'bin', 'app.js']
 
-description: "The blog of Jeff Wilcox: software engineer living in Seattle"
+description: "The blog of RobIM: software engineer living in Seattle"
 root_desc: "Jeff Wilcox is a Principal Software Engineer at Microsoft."
 
 markdown: kramdown
