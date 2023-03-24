@@ -3,7 +3,7 @@
 
 url: https://robimdev.github.io
 base_url: /robim.blog
-destination: docs
+destination: site
 source: docs
 keep_files: ['wp-content', '.git', 'assets', '.github', 'bin', 'app.js']
 
