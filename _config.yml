@@ -1,9 +1,9 @@
 # Jekyll Configuration File
 # jeffwilcox.blog
 
-base_url: https://jeffwilcox.blog
-#base_url: /
-destination: ../blog-site/
+url: https://robimdev.github.io
+base_url: /robim.blog
+#destination: ../blog-site/
 
 keep_files: ['wp-content', '.git', 'assets', '.github', 'bin', 'app.js']
 
@@ -26,4 +26,4 @@ exclude: ['Rakefile', 'README.textile', 'server.bat']
 include: ['.well-known', '.github', 'bin', 'app.js']
 
 # Custom variables I use to define my primary and secondary CDN endpoints.
-cdn: //az414997.vo.msecnd.net/waz/
+#cdn: //az414997.vo.msecnd.net/waz/
